@@ -3,6 +3,8 @@ package sds
 import "base:intrinsics"
 import "base:runtime"
 
+_ :: runtime
+
 /*
 Pool (sparse buffer with a free list)
 

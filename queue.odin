@@ -2,6 +2,8 @@ package sds
 
 import "base:runtime"
 
+_ :: runtime
+
 /*
 Queue (Ring Buffer / Circular Buffer)
 

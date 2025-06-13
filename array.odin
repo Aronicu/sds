@@ -3,6 +3,8 @@ package sds
 import "base:builtin"
 import "base:runtime"
 
+_ :: runtime
+
 /*
 Static array with dynamic length
 

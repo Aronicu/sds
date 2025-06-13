@@ -2,6 +2,8 @@ package sds
 
 import "base:runtime"
 
+_ :: runtime
+
 /*
 SOA Array - (almost) fully compatible variant of Array
 
